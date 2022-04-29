@@ -10,8 +10,8 @@
 |ID|Name|Description|Paper|Conference or Journal|
 |:---:|:---:|:---:|:---:|:---:|
 | 1 | [MIMIC-CXR](https://archive.physionet.org/physiobank/database/mimiccxr/) | Chest X-Rays | [MIMIC-CXR-JPG, a large publicly available database of labeled chest radiographs](./paper/MIMIC-CXR-JPG.pdf)|JAMIA|
-| 2 | [OpenI](https://openi.nlm.nih.gov/)| Chest X-Rays | [Preparing a collection of radiology examinations for distribution and retrieval](./paper/ocv080.pdf) |None|
-| 3 | [MIMIC-III](https://physionet.org/content/mimiciii/1.4/)| Chest X-Rays | [MIMIC-III, a freely accessible critical care database](./paper/sdata201635.pdf) |SCIENTIFIC DATA|
+| 2 | [OpenI](https://openi.nlm.nih.gov/)| Chest X-Rays | [Preparing a collection of radiology examinations for distribution and retrieval](./paper/ocv080.pdf) | - |
+| 3 | [MIMIC-III](https://physionet.org/content/mimiciii/1.4/)| - | [MIMIC-III, a freely accessible critical care database](./paper/sdata201635.pdf) |SCIENTIFIC DATA|
 
 
 ## 2022
