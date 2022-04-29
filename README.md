@@ -16,13 +16,15 @@
 
 ## 2022
 1. `ACL 2022` Graph Enhanced Contrastive Learning for Radiology Findings Summarization [[paper]](./paper/2204.00203.pdf) [[code]](https://github.com/jinpeng01/AIG_CL)
+
 1. `ACL 2022` Differentiable Multi-Agent Actor-Critic for Multi-Step Radiology Report Summarization [[paper]](./paper/ACL2022-Differentiable Multi-Agent Actor-Critic for Multi-Step Radiology Report Summarization)  
 
 ## 2021
 1. `ACL 2021` Findings: Word Graph Guided Summarization for Radiology Findings [[paper]](./paper/2112.09925.pdf) [[code]](https://github.com/jinpeng01/WGSum)
 
 ## 2020
-1. `ACL 2020` Attend to Medical Ontologies: Content Selection for Clinical Abstractive Summarization [[paper]](./paper/2020-Attend to Medical Ontologies Content Selection for Clinical Abstractive Summarization.pdf)  
+1. `ACL 2020` Attend to Medical Ontologies: Content Selection for Clinical Abstractive Summarization [[paper]](./paper/2020-Attend to Medical Ontologies Content Selection for Clinical Abstractive Summarization.pdf)
+
 1. `ACL 2020` Optimizing the Factual Correctness of a Summary: A Study of Summarizing Radiology Reports [[paper]](./paper/2019-Optimizing the Factual Correctness of a Summary A Study of Summarizing Radiology Reports.pdf)  
 
 ##2019
