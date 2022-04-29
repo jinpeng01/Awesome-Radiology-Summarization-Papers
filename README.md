@@ -25,7 +25,7 @@
 1. `ACL 2020` Attend to Medical Ontologies: Content Selection for Clinical Abstractive Summarization [[paper]](./paper/2020_Attend.pdf)
 1. `ACL 2020` Optimizing the Factual Correctness of a Summary: A Study of Summarizing Radiology Reports [[paper]](./paper/2019_Optimizing.pdf)  
 
-##2019
+## 2019
 1. `SIGIR 2019` Ontology-Aware Clinical Abstractive Summarization [[paper]](./paper/3331184.3331319.pdf)
 
 ## 2018
