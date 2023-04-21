@@ -23,6 +23,7 @@
 ## 2021
 1. `ACL 2021` Findings: Word Graph Guided Summarization for Radiology Findings [[paper]](./paper/2112.09925.pdf) [[code]](https://github.com/jinpeng01/WGSum)
 1. `IEEE Transactions on Multimedia` ChestXRayBERT: A Pretrained Language Model for Chest Radiology Report Summarization [[paper]](https://ieeexplore.ieee.org/abstract/document/9638337) 
+1. `BioNLP 2021` BDKG at MEDIQA 2021: system report for the radiology report summarization task [[paper]](https://aclanthology.org/2021.bionlp-1.11/) 
 
 ## 2020
 1. `ACL 2020` Attend to Medical Ontologies: Content Selection for Clinical Abstractive Summarization [[paper]](./paper/2020_Attend.pdf)
@@ -32,7 +33,7 @@
 1. `SIGIR 2019` Ontology-Aware Clinical Abstractive Summarization [[paper]](./paper/3331184.3331319.pdf)
 
 ## 2018
-1. `Workshop` Learning to Summarize Radiology Findings [[paper]](./paper/2018_Learning.pdf) [[code]](https://github.com/yuhaozhang/summarize-radiology-findings)
+1. `EMNLP-LOUHI` Learning to Summarize Radiology Findings [[paper]](./paper/2018_Learning.pdf) [[code]](https://github.com/yuhaozhang/summarize-radiology-findings)
 
 
 
