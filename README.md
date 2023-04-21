@@ -22,6 +22,7 @@
 
 ## 2021
 1. `ACL 2021` Findings: Word Graph Guided Summarization for Radiology Findings [[paper]](./paper/2112.09925.pdf) [[code]](https://github.com/jinpeng01/WGSum)
+1. `IEEE Transactions on Multimedia` ChestXRayBERT: A Pretrained Language Model for Chest Radiology Report Summarization [[paper]](https://ieeexplore.ieee.org/abstract/document/9638337) 
 
 ## 2020
 1. `ACL 2020` Attend to Medical Ontologies: Content Selection for Clinical Abstractive Summarization [[paper]](./paper/2020_Attend.pdf)
